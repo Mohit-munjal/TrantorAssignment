@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TrantorAssignment</string>
+    <string name="sync">Sync</string>
+    <string name="async">Async</string>
+    <string name="start">Start Download</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="finish">Finish</string>
+</resources>

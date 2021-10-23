@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<item name="enable" format="float" type="dimen">1.0</item>
+    <item name="disable" format="float" type="dimen">0.5</item>-->
+    <dimen name="enable">1.0px</dimen>
+    <dimen name="disable">0.5px</dimen>
+
+</resources>
